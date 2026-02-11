@@ -7,11 +7,14 @@
 This repository contains a machine learning model created using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/).
 
 
-### Images 
-<img src="mobile.png" alt="Local Image" width="500" />
+### Proof of My trained Model 
 
 
 <img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
+
+<img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
+
+<img width="184" height="332" alt="Blank" src="https://github.com/user-attachments/assets/3b2d45a7-b3a6-44c1-8ec1-5ee0b67dc3b1" />
 
 ## 🔗 Model Link
 The model is hosted online and can be accessed here:  
@@ -75,19 +78,12 @@ Add the TensorFlow.js library and the Teachable Machine library to your `index.h
         }
     }
 
-### Proof of My trained Model
 
 
 
-<img id="test-image" src="./test-image.jpg" width="200" />
- 
-<img src="mobile.png" alt="Local Image" width="500" />
 
 
-<img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
 
-
-<img width="184" height="332" alt="Blank" src="https://github.com/user-attachments/assets/3b2d45a7-b3a6-44c1-8ec1-5ee0b67dc3b1" />
 
 
 

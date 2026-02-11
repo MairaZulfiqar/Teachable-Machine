@@ -13,9 +13,9 @@ This model was trained to detect and classify specific objects or scenarios. It 
 
 ### Classes
 The model has been trained to recognize the following classes:
-1. **[Class Name 1]** - (e.g., "Red Apple")
-2. **[Class Name 2]** - (e.g., "Green Apple")
-3. **[Class Name 3]** - (e.g., "Background/Noise")
+1. **[Class Name 1]** - (e.g., "Glove")
+2. **[Class Name 2]** - (e.g., "Cell phone")
+3. **[Class Name 3]** - (e.g., "Blank (any color)")
 *(Edit this list to match your specific model labels)*
 
 ## 🛠️ How to Use
@@ -65,6 +65,18 @@ Add the TensorFlow.js library and the Teachable Machine library to your `index.h
             labelContainer.appendChild(document.createElement("div"));
         }
     }
+
+## 🤖 Proof of My trained Model
+
+![WhatsApp Image 2026-02-11 at 2 21 26 PM](https://github.com/user-attachments/assets/618bb23c-8402-4dab-b99a-28052674ef39)
+
+
+![WhatsApp Image 2026-02-11 at 2 21 27 PM (1)](https://github.com/user-attachments/assets/bb2fbd9d-8d9b-4492-8f03-65ba429b66f3)
+
+![WhatsApp Image 2026-02-11 at 2 21 27 PM](https://github.com/user-attachments/assets/07795359-0a49-4491-bd4f-63b985a99214)
+
+
+
 
     async function loop() {
         webcam.update(); // update the webcam frame

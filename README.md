@@ -66,14 +66,19 @@ Add the TensorFlow.js library and the Teachable Machine library to your `index.h
         }
     }
 
-## 🤖 Proof of My trained Model
+### Proof of My trained Model
 
-![WhatsApp Image 2026-02-11 at 2 21 26 PM](https://github.com/user-attachments/assets/618bb23c-8402-4dab-b99a-28052674ef39)
+<img width="196" height="332" alt="image" src="https://github.com/user-attachments/assets/6a981f35-d118-4ed4-89c0-e6aeb129d88f" />
 
 
-![WhatsApp Image 2026-02-11 at 2 21 27 PM (1)](https://github.com/user-attachments/assets/bb2fbd9d-8d9b-4492-8f03-65ba429b66f3)
 
-![WhatsApp Image 2026-02-11 at 2 21 27 PM](https://github.com/user-attachments/assets/07795359-0a49-4491-bd4f-63b985a99214)
+<img width="182" height="328" alt="image" src="https://github.com/user-attachments/assets/21d0ed75-7bbf-4002-8a3a-1f82f1c98fd7" />
+
+
+
+<img width="180" height="329" alt="image" src="https://github.com/user-attachments/assets/429137f9-3246-42e3-8025-11955a9d935f" />
+
+
 
 
 

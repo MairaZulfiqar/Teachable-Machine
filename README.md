@@ -70,7 +70,8 @@ Add the TensorFlow.js library and the Teachable Machine library to your `index.h
 
 
 
-<img width="1182" height="791" alt="image" src="https://github.com/user-attachments/assets/436dfcc8-0bc3-41c2-adbd-ae1560cb1be2" />
+<img width="1182" height="791" alt="image" src="https://github.com/user-attachments/assets/3a424659-8c72-4025-b816-74820ce79916" />
+ 
 
 
 

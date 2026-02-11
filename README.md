@@ -10,7 +10,8 @@ This repository contains a machine learning model created using [Google's Teacha
 ### Proof of My trained Model 
 
 
-<img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
+<img width="187" height="328" alt="Cell phone" src="https://github.com/user-attachments/assets/91618142-9a76-4254-a73f-73860a9902c2" />
+
 
 <img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
 

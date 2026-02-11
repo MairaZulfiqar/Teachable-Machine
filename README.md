@@ -68,15 +68,16 @@ Add the TensorFlow.js library and the Teachable Machine library to your `index.h
 
 ### Proof of My trained Model
 
-<img width="196" height="332" alt="image" src="https://github.com/user-attachments/assets/6a981f35-d118-4ed4-89c0-e6aeb129d88f" />
 
 
-
-<img width="182" height="328" alt="image" src="https://github.com/user-attachments/assets/21d0ed75-7bbf-4002-8a3a-1f82f1c98fd7" />
-
+<img width="187" height="328" alt="Cell phone" src="https://github.com/user-attachments/assets/51c726c8-8895-4e1f-bf19-4ea6d05d1064" />
 
 
-<img width="180" height="329" alt="image" src="https://github.com/user-attachments/assets/429137f9-3246-42e3-8025-11955a9d935f" />
+<img width="186" height="333" alt="Glove" src="https://github.com/user-attachments/assets/8d59de49-45bb-4456-87ef-50e1915b1790" />
+
+
+<img width="184" height="332" alt="Blank" src="https://github.com/user-attachments/assets/3b2d45a7-b3a6-44c1-8ec1-5ee0b67dc3b1" />
+
 
 
 

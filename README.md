@@ -17,6 +17,11 @@ This repository contains a machine learning model created using [Google's Teacha
 
 <img width="184" height="332" alt="Blank" src="https://github.com/user-attachments/assets/3b2d45a7-b3a6-44c1-8ec1-5ee0b67dc3b1" />
 
+### Part 2: The Logic (Critical Thinking)
+
+**Why is this "supervised learning"?**
+
+
 ## 🔗 Model Link
 The model is hosted online and can be accessed here:  
 **[https://teachablemachine.withgoogle.com/models/KWtcPPLV0/](https://teachablemachine.withgoogle.com/models/KWtcPPLV0/)**

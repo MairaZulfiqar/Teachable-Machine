@@ -20,6 +20,13 @@ This repository contains a machine learning model created using [Google's Teacha
 ### Part 2: The Logic (Critical Thinking)
 
 **Why is this "supervised learning"?**
+This is supervised learning because model is trained using labeled dataset. Three labeled objects i.e., cell phone, glove and blank screen is used to train the model. 
+
+
+**Edge cases: What happens if you hold two objects at once? How does the computer react?**
+Computer gets confused when two objects are hold at once. The output is 50% for one trained object and 50% for the other trained object, instead of 100%.
+
+
 
 
 ## 🔗 Model Link
